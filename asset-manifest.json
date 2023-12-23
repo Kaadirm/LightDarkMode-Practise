@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LightDarkMode-Practise/static/css/main.fa9309f1.css",
+    "main.js": "/LightDarkMode-Practise/static/js/main.7ded8add.js",
+    "index.html": "/LightDarkMode-Practise/index.html",
+    "main.fa9309f1.css.map": "/LightDarkMode-Practise/static/css/main.fa9309f1.css.map",
+    "main.7ded8add.js.map": "/LightDarkMode-Practise/static/js/main.7ded8add.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9309f1.css",
+    "static/js/main.7ded8add.js"
+  ]
+}
